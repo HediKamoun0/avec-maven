@@ -9,15 +9,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
-/**
- * @author Walid-YAICH
- * 
- * URL utiles :
- * http://theoryapp.com/parse-json-in-java/
- * https://jsonformatter.curiousconcept.com/
- * 
- *
- */
+// Hedi Author
 
 public class CallRestWebService {
 
